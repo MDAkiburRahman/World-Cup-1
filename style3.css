@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    background-color: #161616;
+    border-radius: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 550px;
+}
+
+.messi img {
+    height: 100%;
+
+}
+
+.messi {
+    position: absolute;
+    width: 59.0px;
+    height: 600px;
+    left: 70%;
+    top: 15%;
+    margin-left: 3%;
+}

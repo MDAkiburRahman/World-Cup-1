@@ -1,0 +1,160 @@
+.black-box {
+    position: absolute;
+    width: 1321px;
+    height: 646px;
+    left: 90px;
+    top: 60px;
+    background: #161616;
+    border-radius: 30px;
+
+}
+
+
+.text1 {
+    position: absolute;
+    width: 531px;
+    height: 240px;
+    left: 246px;
+    top: 161px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 80px;
+    color: white;
+
+}
+
+.text2 {
+    position: absolute;
+    width: 506px;
+    height: 78px;
+    left: 246px;
+    top: 421px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+}
+
+.mother {
+    display: flex;
+    justify-content: center;
+    margin-right: 200px;
+}
+
+.messi img {
+    height: 100%;
+
+}
+
+.messi {
+    position: absolute;
+    width: 587px;
+    height: 613px;
+    left: 801px;
+    top: 83px;
+    margin-left: 20px;
+
+
+
+}
+
+.view {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 25px;
+    gap: 10px;
+    position: absolute;
+    width: 187px;
+    height: 56px;
+    left: 246px;
+    top: 529px;
+    background: #DD0000;
+    border-radius: 5px;
+}
+
+.small-black-box {
+    position: absolute;
+    width: 312px;
+    height: 312px;
+    left: 140px;
+    top: 826px;
+
+    background: #161616;
+    border-radius: 10px;
+}
+
+
+.upcoming-match {
+    position: absolute;
+    width: 252px;
+    height: 64px;
+    left: 170px;
+    top: 856px;
+    background: white;
+    border-radius: 10px;
+}
+
+.text4 {
+    position: absolute;
+    width: 174px;
+    height: 30px;
+    left: 209px;
+    top: 873px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #161616;
+}
+
+.all-group {
+    position: absolute;
+    width: 252px;
+    height: 64px;
+    left: 170px;
+    top: 950px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.text4 {
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 249px;
+    top: 967px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #161616;
+}
+
+.blog {
+    position: absolute;
+    width: 252px;
+    height: 64px;
+    left: 170px;
+    top: 1044px;
+    background-color: #DD0000;
+    border-radius: 10px;
+
+}
+
+.text5 {
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    left: 273px;
+    top: 1061px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: blue;
+}
